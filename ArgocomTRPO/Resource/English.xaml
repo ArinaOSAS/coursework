@@ -1,0 +1,75 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:s="clr-namespace:System;assembly=System.Runtime"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <s:String x:Key="Label_Login" xml:space="preserve">Login</s:String>
+    <s:String x:Key="Label_Password" xml:space="preserve">Password</s:String>
+    <s:String x:Key="Button_SignIn" xml:space="preserve">Sign in</s:String>
+    <s:String x:Key="Button_Color" xml:space="preserve">Change style</s:String>
+    <s:String x:Key="Button_language" xml:space="preserve">Change language</s:String>
+    <s:String x:Key="Label_Authorization" xml:space="preserve">Authorization</s:String>
+    
+    <s:String x:Key="Button_Massege1" xml:space="preserve">Wrong login or password,</s:String>
+    <s:String x:Key="Button_Massege2" xml:space="preserve">try again</s:String>
+    <s:String x:Key="Label_MessageNull" xml:space="preserve">The field is empty, enter data</s:String>
+
+    <s:String x:Key="Label_MassegePassword" xml:space="preserve">Wrong password,</s:String>
+    <s:String x:Key="Label_MassegePassword2" xml:space="preserve">try again</s:String>
+    <s:String x:Key="Button_OK" xml:space="preserve">OK</s:String>
+    
+    <s:String x:Key="Button_Breaking" xml:space="preserve">Breaking</s:String>
+    <s:String x:Key="Button_Account" xml:space="preserve">Account</s:String>
+    <s:String x:Key="Text_Search" xml:space="preserve">Search</s:String>
+    <s:String x:Key="Button_AddTechnology" xml:space="preserve">Add technology</s:String>
+    <s:String x:Key="Button_Delete" xml:space="preserve">Delete</s:String>
+    <s:String x:Key="Button_Report" xml:space="preserve">Report</s:String>
+    <s:String x:Key="ComboBox_Broken" xml:space="preserve">Broken</s:String>
+    <s:String x:Key="ComboBox_Selection" xml:space="preserve">Selection</s:String>
+
+    <s:String x:Key="Label_NumberTechnology" xml:space="preserve">Number technology</s:String>
+    <s:String x:Key="Label_Characteristics" xml:space="preserve">Characteristics</s:String>
+    <s:String x:Key="Label_Department" xml:space="preserve">Department</s:String>
+    <s:String x:Key="Label_TypeTechnology" xml:space="preserve">Type technology</s:String>
+    <s:String x:Key="Grid_Status" xml:space="preserve">Status</s:String>
+
+    <s:String x:Key="Button_Technology" xml:space="preserve">Technology</s:String>
+    <s:String x:Key="Button_Diagram" xml:space="preserve">Diagram</s:String>
+    <s:String x:Key="Button_Mending" xml:space="preserve">Mending</s:String>
+    <s:String x:Key="Button_SendRepair" xml:space="preserve">Send for repair</s:String>
+
+    <s:String x:Key="Button_Build" xml:space="preserve">Build</s:String>
+    <s:String x:Key="Button_Back" xml:space="preserve">Back</s:String>
+    <s:String x:Key="FromDate" xml:space="preserve">From: "date"</s:String>
+    <s:String x:Key="ToDate" xml:space="preserve">To: "date"</s:String>
+
+    <s:String x:Key="Grid_DateBreaking" xml:space="preserve">Date of failure</s:String>
+    <s:String x:Key="Grid_TypeBreaking" xml:space="preserve">Type of failure</s:String>
+    <s:String x:Key="Grid_DescriptionBreaking" xml:space="preserve">Description</s:String>
+
+    <s:String x:Key="Label_DateSendRepair" xml:space="preserve">Date send for repair</s:String>
+    <s:String x:Key="Label_Engineer" xml:space="preserve">Engineer</s:String>
+
+    <s:String x:Key="Button_Add" xml:space="preserve">Add</s:String>
+    <s:String x:Key="Button_Cancel" xml:space="preserve">Cancel</s:String>
+    <s:String x:Key="Button_Send" xml:space="preserve">Send</s:String>
+
+    <s:String x:Key="Button_Pochinino" xml:space="preserve">Pochinino</s:String>
+
+    <s:String x:Key="Label_NumberDepartment" xml:space="preserve"> № department</s:String>
+
+    <s:String x:Key="Label_CurrentPassword" xml:space="preserve">Current password</s:String>
+    <s:String x:Key="Label_NewPassword" xml:space="preserve">New password</s:String>
+    
+    
+    <s:String x:Key="Button_GoOut" xml:space="preserve">Go out</s:String>
+    <s:String x:Key="Button_PasswordReset" xml:space="preserve">Password reset</s:String>
+    <s:String x:Key="Label_FIO" xml:space="preserve">Full name</s:String>
+    <s:String x:Key="Label_Post" xml:space="preserve">Post</s:String>
+    <s:String x:Key="Label_PhoneNumber" xml:space="preserve">Phone number</s:String>
+    <s:String x:Key="Label_Account" xml:space="preserve">Account</s:String>
+   
+   
+    
+    
+    
+</ResourceDictionary>

@@ -1,0 +1,252 @@
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\ArgocomTRPO.exe
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\ArgocomTRPO.deps.json
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\ArgocomTRPO.runtimeconfig.json
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\ArgocomTRPO.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\ArgocomTRPO.pdb
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\itextsharp.pdfa.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\LiveCharts.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.csproj.AssemblyReference.cache
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO_MarkupCompile.cache
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.AssemblyInfoInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.AssemblyInfo.cs
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.csproj.CoreCompileInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.csproj.CopyComplete
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\obj\Debug\net6.0-windows\refint\ArgocomTRPO.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.pdb
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.genruntimeconfig.cache
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\obj\Debug\net6.0-windows\ref\ArgocomTRPO.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\obj\Debug\net6.0-windows\AuthorizationWindow.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\TechnologyWindowAdmin.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO_MarkupCompile.lref
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\obj\Debug\net6.0-windows\AuthorizationWindow.baml
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\TechnologyWindowAdmin.baml
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.g.resources
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\obj\Debug\net6.0-windows\Resource\Russian.baml
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\obj\Debug\net6.0-windows\Resource\Black.baml
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\obj\Debug\net6.0-windows\Resource\English.baml
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\obj\Debug\net6.0-windows\Resource\White.baml
+C:\Users\arina\OneDrive\Рабочий стол\ТРПО\Практика\Новая папка\ArgocomTRPO\ArgocomTRPO\obj\Debug\net6.0-windows\App.baml
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\ArgocomTRPO.exe
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\ArgocomTRPO.deps.json
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\ArgocomTRPO.runtimeconfig.json
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\ArgocomTRPO.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\ArgocomTRPO.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\itextsharp.pdfa.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\LiveCharts.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.csproj.AssemblyReference.cache
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\Resource\Black.baml
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\Resource\English.baml
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\Resource\Russian.baml
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\Resource\White.baml
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\AuthorizationWindow.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\TechnologyWindowAdmin.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO_MarkupCompile.cache
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO_MarkupCompile.lref
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\App.baml
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\AuthorizationWindow.baml
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\TechnologyWindowAdmin.baml
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.g.resources
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.AssemblyInfoInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.AssemblyInfo.cs
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.csproj.CoreCompileInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.csproj.CopyComplete
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\refint\ArgocomTRPO.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.genruntimeconfig.cache
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\ref\ArgocomTRPO.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\AccountWindow.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\MassegeAuthorization.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\MassegeNull.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\AddTechnologyWindowAdmin.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\BrokenWindowAdmin.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsTS\BreakingWindowTS.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsTS\NoticeWindow.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\AccountWindow.baml
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\MassegeAuthorization.baml
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\MassegeNull.baml
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\AddTechnologyWindowAdmin.baml
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\BrokenWindowAdmin.baml
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsTS\BreakingWindowTS.baml
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsTS\NoticeWindow.baml
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\AddMendingWindowAdmin.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\BreakingWindowAdmin.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\DiagramWindowAdmin.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\MendingWindowAdmin.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\AddMendingWindowAdmin.baml
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\BreakingWindowAdmin.baml
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\DiagramWindowAdmin.baml
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\MendingWindowAdmin.baml
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\HarfBuzzSharp.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\LiveChartsCore.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\LiveChartsCore.SkiaSharpView.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\LiveChartsCore.SkiaSharpView.WPF.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\SkiaSharp.Views.WPF.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\PasswordWindow.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\PasswordWindow.baml
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\MassegePassword.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\MassegePassword.baml
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsTS\MendingWindowTS.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsTS\MendingWindowTS.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\ArgocomTRPO.exe
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\ArgocomTRPO.deps.json
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\ArgocomTRPO.runtimeconfig.json
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\ArgocomTRPO.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\ArgocomTRPO.pdb
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\HarfBuzzSharp.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\itextsharp.pdfa.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\LiveCharts.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\LiveChartsCore.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\LiveChartsCore.SkiaSharpView.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\LiveChartsCore.SkiaSharpView.WPF.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\SkiaSharp.Views.WPF.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.csproj.AssemblyReference.cache
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\Resource\Black.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\Resource\English.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\Resource\Russian.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\Resource\White.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\AccountWindow.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\AuthorizationWindow.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\MassegeAuthorization.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\MassegeNull.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\MassegePassword.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\PasswordWindow.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\AddMendingWindowAdmin.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\AddTechnologyWindowAdmin.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\BreakingWindowAdmin.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\BrokenWindowAdmin.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\DiagramWindowAdmin.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\MendingWindowAdmin.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\TechnologyWindowAdmin.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsTS\BreakingWindowTS.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsTS\MendingWindowTS.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsTS\NoticeWindow.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO_MarkupCompile.cache
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO_MarkupCompile.lref
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\App.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\AccountWindow.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\AuthorizationWindow.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\MassegeAuthorization.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\MassegeNull.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\MassegePassword.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\PasswordWindow.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\AddMendingWindowAdmin.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\AddTechnologyWindowAdmin.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\BreakingWindowAdmin.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\BrokenWindowAdmin.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\DiagramWindowAdmin.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\MendingWindowAdmin.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsAdmin\TechnologyWindowAdmin.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsTS\BreakingWindowTS.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsTS\MendingWindowTS.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\WindowsTS\NoticeWindow.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.g.resources
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.AssemblyInfoInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.AssemblyInfo.cs
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.csproj.CoreCompileInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.csproj.CopyComplete
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\refint\ArgocomTRPO.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.pdb
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\ArgocomTRPO.genruntimeconfig.cache
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\Курсовая ТРПО\Приложение\ArgocomTRPO\obj\Debug\net6.0-windows\ref\ArgocomTRPO.dll

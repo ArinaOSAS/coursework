@@ -1,0 +1,112 @@
+<Window x:Class="ArgocomTRPO.WindowsAdmin.AddTechnologyWindowAdmin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:ArgocomTRPO.WindowsAdmin"
+        mc:Ignorable="d"
+        Title="AddTechnologyWindowAdmin" Height="440" Width="730" WindowStyle="None" WindowStartupLocation="CenterScreen"  ResizeMode="NoResize">
+    <Grid>
+        <Border  Background="LightGray">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="18*"></RowDefinition>
+                    <RowDefinition Height="22*"></RowDefinition>
+                    <RowDefinition Height="28*"></RowDefinition>
+                    <RowDefinition Height="22*"></RowDefinition>
+                    <RowDefinition Height="28*"></RowDefinition>
+                    <RowDefinition Height="42*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Border Grid.Row="0" BorderBrush="Black" BorderThickness="2" Grid.ColumnSpan="2" Grid.RowSpan="8" Background="White" Margin="10" CornerRadius="30" Padding="30">
+                    <Border.Effect>
+                        <DropShadowEffect BlurRadius="30" Color="LightGray"/>
+                    </Border.Effect>
+                </Border>
+                <Border Grid.Row="0" Grid.ColumnSpan="2" BorderBrush="Black" BorderThickness="2" Margin="10" CornerRadius="30" Padding="30">
+                    <Border.Effect>
+                        <DropShadowEffect BlurRadius="30" Color="LightGray"/>
+                    </Border.Effect>
+                </Border>
+                <Grid Grid.ColumnSpan="3" Margin="10,10,15,0" MouseDown="WrapPanel_mouseDown">
+                    <Button Height="35" Width="35" Click="Button_minimized"  Background="#0040E0D0" BorderBrush="#0040E0D0" FontWeight="Bold" Margin="0,0,15,0" HorizontalAlignment="Right" VerticalAlignment="Top">
+                        <Image Source="/Image/Черта.png" />
+                    </Button>
+                </Grid>
+                <Label Grid.Column="0" Grid.Row="1" Content="{DynamicResource Label_NumberTechnology}" FontSize="23" Height="50" Width="auto" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="25,35,0,0"  />
+                <TextBox x:Name="TextBox_NumberTechnology" Grid.Column="0" Grid.Row="2" HorizontalAlignment="Left" FontSize="20" Width="280" Height="35" Margin="25,0,0,0" BorderBrush="Black"  />
+                    <TextBlock IsHitTestVisible="False" Grid.Column="0" Grid.Row="2" Text="{DynamicResource Label_NumberTechnology}" HorizontalAlignment="Left" Height="30" Width="270" FontSize="20" TextAlignment="Left" Foreground="#696969" Margin="35,0,0,0">
+                        <TextBlock.Style>
+                            <Style TargetType="{x:Type TextBlock}">
+                                <Setter Property="Visibility" Value="Collapsed"/>
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding Text, ElementName=TextBox_NumberTechnology}" Value="">
+                                        <Setter Property="Visibility" Value="Visible"/>
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </TextBlock.Style>
+                    </TextBlock>
+                <Label Grid.Column="1" Grid.Row="1" Content="{DynamicResource Label_Characteristics}" FontSize="23" Height="50" Width="auto" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="20,35,0,0"  />
+                <TextBox x:Name="TextBox_Characteristics" Grid.Column="1" Grid.Row="2" HorizontalAlignment="Left" FontSize="20" Width="280" Height="35" Margin="20,0,0,0" BorderBrush="Black"  />
+                    <TextBlock IsHitTestVisible="False" Grid.Column="1" Grid.Row="2" Text="{DynamicResource Label_Characteristics}" HorizontalAlignment="Left" Height="30" Width="270" FontSize="20" TextAlignment="Left" Foreground="#696969" Margin="25,0,0,0">
+                        <TextBlock.Style>
+                            <Style TargetType="{x:Type TextBlock}">
+                                <Setter Property="Visibility" Value="Collapsed"/>
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding Text, ElementName=TextBox_Characteristics}" Value="">
+                                        <Setter Property="Visibility" Value="Visible"/>
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </TextBlock.Style>
+                    </TextBlock>
+                <Label Grid.Column="0" Grid.Row="3" Content="{DynamicResource Label_TypeTechnology}" FontSize="23" Height="50" Width="auto" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="25,35,0,0" />
+                 <ComboBox Name="ComboBox_Typetechnology" DisplayMemberPath="Typetechnology1" FontSize="20"  Grid.Column="0" Grid.Row="4"  Width="280" Height="35" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="25,0,0,0" />
+                <TextBlock IsHitTestVisible="False" Grid.Column="0" Grid.Row="4"  Width="280" Height="35" Text="{DynamicResource Label_TypeTechnology}" HorizontalAlignment="Center" FontSize="18" TextAlignment="Left" Foreground="#696969" Margin="30,10,40,0">
+                    <TextBlock.Style>
+                        <Style TargetType="{x:Type TextBlock}">
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding Text, ElementName=ComboBox_Typetechnology}" Value="">
+                                    <Setter Property="Visibility" Value="Visible"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </TextBlock.Style>
+                </TextBlock>
+                <Label Grid.Column="1" Grid.Row="3" Content="{DynamicResource Label_Department}" FontSize="23" Height="50" Width="auto" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="20,35,0,0"  />
+                <ComboBox Name="ComboBox_Department" DisplayMemberPath="Numberdepartment"  FontSize="20" Grid.Column="1" Grid.Row="4"  Width="280" Height="35" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="20,0,0,0" />
+                <TextBlock IsHitTestVisible="False" Grid.Column="1" Grid.Row="4"  Width="180" Height="35" Text="{DynamicResource Label_Department}" HorizontalAlignment="Center" FontSize="18" TextAlignment="Left" Foreground="#696969" Margin="0,10,120,0">
+                    <TextBlock.Style>
+                        <Style TargetType="{x:Type TextBlock}">
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding Text, ElementName=ComboBox_Department}" Value="">
+                                    <Setter Property="Visibility" Value="Visible"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </TextBlock.Style>
+                </TextBlock>
+                <Button Content="{DynamicResource Button_Add}" FontSize="25" Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2" Width="150" Height="40"  Margin="80,0,0,0" Click="Click_AddTechnology" >
+                    <Button.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="8"/>
+                        </Style>
+                    </Button.Resources>
+                </Button>
+                <Button Content="{DynamicResource Button_Cancel}" FontSize="25" Grid.Row="5" Grid.Column="1" Width="150" Height="40" Margin="150,0,50,0" Click="Click_Technology">
+                    <Button.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="8"/>
+                        </Style>
+                    </Button.Resources>
+                </Button>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

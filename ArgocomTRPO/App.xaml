@@ -1,0 +1,17 @@
+﻿<Application x:Class="ArgocomTRPO.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ArgocomTRPO"
+             StartupUri="/AuthorizationWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+               <ResourceDictionary Source="Resource/English.xaml"/>
+               <ResourceDictionary Source="Resource/Russian.xaml"/>
+               
+               <ResourceDictionary Source="Resource/Black.xaml"/>
+               <ResourceDictionary Source="Resource/White.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

@@ -1,0 +1,70 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:s="clr-namespace:System;assembly=System.Runtime"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <s:String x:Key="Label_Login" xml:space="preserve">Логин</s:String>
+    <s:String x:Key="Label_Password" xml:space="preserve">Пароль</s:String>
+    <s:String x:Key="Button_SignIn" xml:space="preserve">Войти</s:String>
+    <s:String x:Key="Button_Color" xml:space="preserve">Сменить стиль</s:String>
+    <s:String x:Key="Button_language" xml:space="preserve">Сменить язык</s:String>
+    <s:String x:Key="Label_Authorization" xml:space="preserve">Авторизация</s:String>
+    
+    <s:String x:Key="Button_Massege1" xml:space="preserve">Неверный логин или пароль,</s:String>
+    <s:String x:Key="Button_Massege2" xml:space="preserve">попробуйте еще раз</s:String>
+    <s:String x:Key="Label_MessageNull" xml:space="preserve">Поля пустые, введите данные</s:String>
+    
+    <s:String x:Key="Label_MassegePassword" xml:space="preserve">Неверный пароль,</s:String>
+    <s:String x:Key="Label_MassegePassword2" xml:space="preserve">попробуйте еще раз</s:String>
+    <s:String x:Key="Button_OK" xml:space="preserve">ОК</s:String>
+    
+    <s:String x:Key="Button_Breaking" xml:space="preserve">Поломки</s:String>
+    <s:String x:Key="Button_Account" xml:space="preserve">Учетная запись</s:String>
+    <s:String x:Key="Text_Search" xml:space="preserve">Поиск</s:String>
+    <s:String x:Key="Button_AddTechnology" xml:space="preserve">Добавить технику</s:String>
+    <s:String x:Key="Button_Delete" xml:space="preserve">Удалить</s:String>
+    <s:String x:Key="Button_Report" xml:space="preserve">Отчет</s:String>
+    <s:String x:Key="ComboBox_Broken" xml:space="preserve">Сломано</s:String>
+    <s:String x:Key="ComboBox_Selection" xml:space="preserve">Отбор</s:String>
+
+    <s:String x:Key="Label_NumberTechnology" xml:space="preserve">Номер техники</s:String>
+    <s:String x:Key="Label_Characteristics" xml:space="preserve">Характеристики</s:String>
+    <s:String x:Key="Label_TypeTechnology" xml:space="preserve">Тип техники</s:String>
+    <s:String x:Key="Label_Department" xml:space="preserve">Отдел</s:String>
+    <s:String x:Key="Grid_Status" xml:space="preserve">Состояние</s:String>
+
+    <s:String x:Key="Button_SendRepair" xml:space="preserve">Отправить на ремонт</s:String>
+    <s:String x:Key="Button_Technology" xml:space="preserve">Техника</s:String>
+    <s:String x:Key="Button_Diagram" xml:space="preserve">Диаграмма</s:String>
+    <s:String x:Key="Button_Mending" xml:space="preserve">Ремонт</s:String>
+
+    <s:String x:Key="Button_Back" xml:space="preserve">Назад</s:String>
+    <s:String x:Key="Button_Build" xml:space="preserve">Построить</s:String>
+    <s:String x:Key="FromDate" xml:space="preserve">От: "дата"</s:String>
+    <s:String x:Key="ToDate" xml:space="preserve">До: "дата"</s:String>
+
+    <s:String x:Key="Grid_DescriptionBreaking" xml:space="preserve">Описание</s:String>
+    <s:String x:Key="Grid_DateBreaking" xml:space="preserve">Дата поломки</s:String>
+    <s:String x:Key="Grid_TypeBreaking" xml:space="preserve">Тип поломки</s:String>
+
+    <s:String x:Key="Label_DateSendRepair" xml:space="preserve">Дата отправки на ремонт</s:String>
+    <s:String x:Key="Label_Engineer" xml:space="preserve">Технический специалист</s:String>
+
+    <s:String x:Key="Button_Add" xml:space="preserve">Добавить</s:String>
+    <s:String x:Key="Button_Cancel" xml:space="preserve">Отмена</s:String>
+    <s:String x:Key="Button_Send" xml:space="preserve">Отправить</s:String>
+    
+    <s:String x:Key="Button_Pochinino" xml:space="preserve">Починено</s:String>
+
+    <s:String x:Key="Label_NumberDepartment" xml:space="preserve"> № отдела</s:String>
+
+    <s:String x:Key="Label_CurrentPassword" xml:space="preserve">Текущий пароль</s:String>
+    <s:String x:Key="Label_NewPassword" xml:space="preserve">Новый пароля</s:String>
+    
+    <s:String x:Key="Button_GoOut" xml:space="preserve">Выйти</s:String>
+    <s:String x:Key="Button_PasswordReset" xml:space="preserve">Сброс пароля</s:String>
+    <s:String x:Key="Label_FIO" xml:space="preserve">Ф.И.О.</s:String>
+    <s:String x:Key="Label_Post" xml:space="preserve">Должность</s:String>
+    <s:String x:Key="Label_PhoneNumber" xml:space="preserve">Номер телефона</s:String>
+    <s:String x:Key="Label_Account" xml:space="preserve">Учетная запись</s:String>
+
+</ResourceDictionary>

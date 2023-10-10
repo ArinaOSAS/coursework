@@ -1,0 +1,107 @@
+<Window x:Class="ArgocomTRPO.WindowsTS.BreakingWindowTS"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:ArgocomTRPO.WindowsTS"
+        mc:Ignorable="d"
+        Title="BreakingWindowTS" Height="540" Width="930" WindowStyle="None" WindowStartupLocation="CenterScreen"  ResizeMode="NoResize">
+
+    <Grid>
+        <Border Background="LightGray" >
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="35*"></RowDefinition>
+                    <RowDefinition Height="10*"></RowDefinition>
+                    <RowDefinition Height="45*"></RowDefinition>
+                    <RowDefinition Height="35*"></RowDefinition>
+                    <RowDefinition Height="45*"></RowDefinition>
+                    <RowDefinition Height="35*"></RowDefinition>
+                    <RowDefinition Height="50*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <Border Grid.Row="0" BorderBrush="Black" BorderThickness="2" Grid.ColumnSpan="3" Grid.RowSpan="7" Background="White" Margin="10" CornerRadius="30" Padding="30">
+                    <Border.Effect>
+                        <DropShadowEffect BlurRadius="30" Color="LightGray"/>
+                    </Border.Effect>
+                </Border>
+                <Border Grid.Row="0" BorderBrush="Black" BorderThickness="2" Grid.ColumnSpan="3" Margin="9,10,9,25" CornerRadius="30" Padding="30">
+                    <Border.Effect>
+                        <DropShadowEffect BlurRadius="30" Color="LightGray"/>
+                    </Border.Effect>
+                </Border>
+                <Grid Grid.Row="0" Grid.ColumnSpan="7" Margin="11"  Background="#00990055" MouseDown="WrapPanel_mouseDown">
+                    <Button Height="35" Width="35" Click="Button_close"  Background="#0040E0D0" BorderBrush="#0040E0D0" FontWeight="Bold" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,0,5,0">
+                        <Image Source="/Image/Крестик.png" RenderTransformOrigin="0.5,0.5" >
+                            <Image.RenderTransform>
+                                <TransformGroup>
+                                    <ScaleTransform/>
+                                    <SkewTransform/>
+                                    <RotateTransform Angle="44.589"/>
+                                    <TranslateTransform/>
+                                </TransformGroup>
+                            </Image.RenderTransform>
+                        </Image>
+                    </Button>
+                    <Button Height="35" Width="35" Click="Button_minimized"  Background="#0040E0D0" BorderBrush="#0040E0D0" FontWeight="Bold" Margin="0,0,40,0" HorizontalAlignment="Right" VerticalAlignment="Top">
+                        <Image Source="/Image/Черта.png" Width="40" />
+                    </Button>
+                </Grid>
+                <ComboBox Name="ComboBoxSelection" FontSize="20" DisplayMemberPath="Typebreaking1"  Grid.Column="0"  Grid.Row="2"  Width="180" Height="35" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="25,0,0,0" SelectionChanged="ComboBoxSelection_OnSelected" />
+                <TextBlock IsHitTestVisible="False" Grid.Column="0"  Grid.Row="2"  Width="180" Height="35" Text="{DynamicResource ComboBox_Selection}" HorizontalAlignment="Center" FontSize="18" TextAlignment="Left" Foreground="#696969" Margin="0,10,60,0">
+                    <TextBlock.Style>
+                        <Style TargetType="{x:Type TextBlock}">
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding Text, ElementName=ComboBoxSelection}" Value="">
+                                    <Setter Property="Visibility" Value="Visible"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </TextBlock.Style>
+                </TextBlock>
+                <Button Grid.Column="0" Grid.Row="2" Width="35" Height="35" Margin="170,0,0,0" Click="ButtonBase_OnClick" >
+                    <Image Source="/Image/Сброс.png" Width="22" Height="30" />
+                    <Button.Resources>
+                        <Style TargetType="Border">
+                            <Setter Property="CornerRadius" Value="8"/>
+                        </Style>
+                    </Button.Resources>
+                </Button>
+                <TextBox x:Name="TextBox_Search" Grid.Column="0" Grid.Row="2"  Grid.ColumnSpan="2"  Width="220" Height="35" HorizontalAlignment="Center" BorderBrush="Black" TextAlignment="Left" FontSize="20" Margin="150,0,0,0" TextChanged="TextBox_Search_OnTextChanged" />
+                <TextBlock IsHitTestVisible="False" Grid.Column="0" Grid.Row="2"  Grid.ColumnSpan="2" Text="{DynamicResource Text_Search}" HorizontalAlignment="Center" Height="30" Width="170" FontSize="18" TextAlignment="Left" Foreground="#696969" Margin="125,0,0,0">
+                    <TextBlock.Style>
+                        <Style TargetType="{x:Type TextBlock}">
+                            <Setter Property="Visibility" Value="Collapsed"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding Text, ElementName=TextBox_Search}" Value="">
+                                    <Setter Property="Visibility" Value="Visible"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </TextBlock.Style>
+                </TextBlock>
+
+                <DataGrid Name="DataGrid_Breaking" IsReadOnly="True"  FontSize="20" Grid.Column="0" Grid.Row="3" Grid.ColumnSpan="3" Grid.RowSpan="3" AutoGenerateColumns="False" Margin="20,0, 20,0">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Binding="{Binding FktechnologyNavigation.Uniquecode}" Header="{DynamicResource Label_NumberTechnology}" Width="Auto" ></DataGridTextColumn>
+                        <DataGridTextColumn Binding="{Binding FktechnologyNavigation.FktypetechnologyNavigation.Typetechnology1}" Header="{DynamicResource Label_TypeTechnology}"  Width="*"></DataGridTextColumn>
+                        <DataGridTextColumn Binding="{Binding Datebreaking, StringFormat='dd.MM.yyyy' }" Header="{DynamicResource Grid_DateBreaking}"  Width="*"></DataGridTextColumn>
+                        <DataGridTextColumn Binding="{Binding Description}" Header="{DynamicResource Grid_DescriptionBreaking}"  Width="*"></DataGridTextColumn>
+                        <DataGridTextColumn Binding="{Binding FktypebreakingNavigation.Typebreaking1}" Header="{DynamicResource Grid_TypeBreaking}"  Width="Auto"></DataGridTextColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+                <Button Content="{DynamicResource Button_Mending}" FontSize="20" Background="#00990055" BorderBrush="#00990055" Foreground="Black" Grid.Row="1" Grid.Column="0" Grid.RowSpan="2" Width="Auto" Height="35" HorizontalAlignment="Left" Margin="25,0,0,80" Click="Click_Mending"/>
+                <Button Content="{DynamicResource Button_Account}" Height="35" Width="Auto" FontSize="20" Foreground="Black" Background="#00990055" BorderBrush="#00990055" Grid.Row="1" Grid.Column="2" Grid.RowSpan="2" HorizontalAlignment="Center" Margin="100,0,0,80" Click="Click_Account"/>
+                                 
+
+
+            </Grid>
+        </Border>
+    </Grid>
+</Window>
